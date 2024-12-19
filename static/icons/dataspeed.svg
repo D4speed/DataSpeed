@@ -1,0 +1,18 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 1200" width="96" height="96">
+	<title>dataspeed</title>
+	<style>
+		.s0 { fill: none;stroke: #78c2c4;stroke-miterlimit:100;stroke-width: 40 } 
+		.s1 { opacity: .5;fill: #4febed } 
+	</style>
+	<g id="dataspeed1">
+		<path id="形状 1 拷贝 2" class="s0" d="m600 601c0-200 200-200 200 0 0 48.2 0 200 0 200"/>
+		<path id="形状 2" class="s0" d="m858 915"/>
+		<path id="形状 1 拷贝" class="s0" d="m600 600c0 200-200 200-200 0 0-48.2 0-200 0-200"/>
+		<path id="矩形 1 拷贝 2" class="s1" d="m380 801v-201h40v201z"/>
+		<path id="形状 1 拷贝" class="s0" d="m400 400c0 0 0 151.8 0 200 0 200-200 200-200 0v-40"/>
+		<path id="矩形 1 拷贝 2" class="s1" d="m780 601v-201h40v201z"/>
+		<path id="形状 1 拷贝" class="s0" d="m800 801c0 0 0-151.8 0-200 0-200 200-200 200 0v40"/>
+		<path id="矩形 1 拷贝" class="s1" d="m840 600.7h180.3v40h-180.3z"/>
+		<path id="矩形 1" class="s1" d="m180 560h180v40h-180z"/>
+	</g>
+</svg>
