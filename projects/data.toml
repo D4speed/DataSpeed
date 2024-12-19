@@ -1,0 +1,18 @@
+# [[project]]
+# name = "lorem"
+# desc = "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Praesentium, nisi saepe dolor unde iusto dolore nam, vero optio consequuntur repudiandae et! Atque libero expedita laudantium cupiditate, sit explicabo sequi ipsa!"
+# tags = ["nisi", "saepe"]
+# links = [
+#     { name = "github", url = "https://example.com" },
+#     { name = "docs", url = "https://example.com" },
+# ]
+
+[[project]]
+name = "blog"
+desc = "dataspeed blog"
+tags = ["blog"]
+links = [
+    { name = "homepage", url = "https://d4speed.github.io/blog" },
+    { name = "source", url = "https://github.com/D4speed/blog" },
+    { name = "docs", url = "https://github.com/D4speed/blog" },
+]
