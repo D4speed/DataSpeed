@@ -77,7 +77,7 @@ avatar_invert = true
 # The `name` should be the file name of static/icons/*.svg or the icon name of https://simpleicons.org/
 [[extra.profile.social]]
 name = "github"
-url = "https://github.com/st1020/kita"
+url = "https://github.com/D4speed/DataSpeed"
 
 
 
