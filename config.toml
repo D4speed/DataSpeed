@@ -1,8 +1,8 @@
 # The URL the site will be built for
-base_url = "http://codephage.top/"
+base_url = "https://d4speed.github.io/DataSpeed/"
 theme = "kita"
 title = "DataSpeed"
-description = "Kita is a clean, elegant and simple blog theme for Zola."
+description = "Accumulate slowly,move steadily forward,use data to speak for growth."
 
 # The default site author.
 author = "DataSpeed"
